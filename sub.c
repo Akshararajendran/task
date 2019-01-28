@@ -10,5 +10,6 @@ int main()
 int a,b;
 scanf("%d%d",&a,&b);
 printf("%d",sub(a,b));
+printf("hii");
 return 0;
 }
